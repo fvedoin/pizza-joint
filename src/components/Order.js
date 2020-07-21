@@ -26,7 +26,7 @@ const childVariants = {
   visible: {
     opacity: 1
   }
-}
+};
 
 const Order = ({ pizza }) => {
   return (
