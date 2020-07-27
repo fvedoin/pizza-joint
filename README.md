@@ -8,7 +8,7 @@ You must have [NodeJS](https://nodejs.org/en/) and its package manager [NPM](htt
 ## Running
 You must download or clone this repo and inside its directory run the following commands:
 ```
-cd ./picpay-clone
+cd ./pizza-joint
 npm install
 npm start
 ```
